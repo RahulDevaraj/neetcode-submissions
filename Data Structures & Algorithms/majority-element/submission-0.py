@@ -1,3 +1,4 @@
+#My SOln
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         result=defaultdict(int)
